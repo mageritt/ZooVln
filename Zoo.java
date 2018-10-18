@@ -1,6 +1,6 @@
 public class Zoo
 {
 	public static void main (String ... args)
-{	System.out.writeln("Zoo parkas laukia visu!");
+{	System.out.println("Zoo parkas laukia visu!");
 }
 }
